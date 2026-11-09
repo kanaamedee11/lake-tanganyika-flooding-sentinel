@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pkl
+*.aux
+*.log
+*.out
+*.blg
+*.synctex.gz
+.DS_Store
+.ipynb_checkpoints/

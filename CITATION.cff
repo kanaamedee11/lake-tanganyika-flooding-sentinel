@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Where the Lake Rises: Sentinel-1 and Sentinel-2 Evidence of Shoreline and Delta Flooding at Northern Lake Tanganyika, 2017 to 2025"
+type: software
+authors:
+  - family-names: "Kana"
+    given-names: "Amédée"
+    email: "kanaamedee00@gmail.com"
+    orcid: "https://orcid.org/0009-0009-9620-6399"
+    affiliation: "Independent Researcher, Bujumbura, Burundi"
+abstract: "Pixel-level Sentinel-1 and Sentinel-2 water-frequency maps show a local, progressive inundation south-west of Gatumba, while lake-wide monthly area is dominated by sensor disagreement."
+keywords:
+  - Lake Tanganyika
+  - flood mapping
+  - Sentinel-1
+  - Sentinel-2
+  - Rusizi delta
+  - Burundi
+license: MIT
+date-released: "2026-10-23"
+repository-code: "https://github.com/kanaamedee11/lake-tanganyika-flooding-sentinel"
